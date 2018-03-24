@@ -1,0 +1,4 @@
+﻿  Terrain.cpp
+c:\users\shinelon\documents\visual studio 2015\projects\3dgame\3dgame\terrain.cpp(41): warning C4244: “参数”: 从“std::streamoff”转换到“unsigned int”，可能丢失数据
+  3DGame.vcxproj -> C:\Users\Shinelon\documents\visual studio 2015\Projects\3DGame\Debug\3DGame.exe
+  3DGame.vcxproj -> C:\Users\Shinelon\documents\visual studio 2015\Projects\3DGame\Debug\3DGame.pdb (Full PDB)
